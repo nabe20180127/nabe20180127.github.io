@@ -1,10 +1,11 @@
-let Count = 0
-const Btn = document.getElementById('Button')
-const Now = document.getElementById('time')
+let count = 0
+const Btn = document.getElementById('btn')
+const Now = document.getElementById('tim')
 
 const init = () => {
   count = 0
   Btn.innerText = count
+
 }
 init()
 
