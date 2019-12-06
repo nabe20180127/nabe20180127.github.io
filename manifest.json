@@ -1,8 +1,8 @@
 {
   "name": "nabe_test",
   "short_name": "nt",
-  "start_url": "https://nabe20180127.github.io/"
-  "theme_color": "#e91e63"
+  "start_url": "https://nabe20180127.github.io/",
+  "theme_color": "#e91e63",
   "background_color": "#2196f3",
   "display": "standalone",
   "scope": "/",
